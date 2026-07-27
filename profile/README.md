@@ -1,16 +1,38 @@
-## Hi there 👋
+# Orvex Technologies Pty Ltd
 
-<!--
-**orvextechnologies/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+Enterprise Engineering • Cloud • DevOps • APIs • Kubernetes • Platform Engineering • Site Reliability Engineering (SRE) • Responsible AI
 
-Here are some ideas to get you started:
+We help organizations modernize cloud infrastructure, accelerate software delivery, and build secure, resilient cloud-native platforms through enterprise engineering, DevOps, Kubernetes, APIs, SRE, Platform Engineering, and Responsible AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Our Mission
+
+To help enterprises modernize, secure, and optimize technology platforms through cloud-native engineering, DevOps, APIs, Kubernetes, Platform Engineering, SRE, and Responsible AI.
+
+## What We Do
+
+- Cloud Engineering
+- Platform Engineering
+- DevOps & DevSecOps
+- Kubernetes & Cloud Native
+- API & Microservices Modernization
+- Site Reliability Engineering (SRE)
+- Cloud Migration & Modernization
+- Infrastructure as Code (Terraform/Bicep)
+- GitOps & CI/CD
+- Observability
+- FinOps
+- Responsible AI
+- Enterprise AI Products
+
+## Products
+
+- **KubeAI Ops Agent** – AI-powered Kubernetes Operations Platform
+- Enterprise Engineering Solutions
+- Cloud & Platform Engineering Services
+- More enterprise products coming soon.
+
+🌐 **Website:** https://orvextechnologies.com.au
+
+💼 **LinkedIn:** https://linkedin.com/company/orvex-technologies-pty-ltd
