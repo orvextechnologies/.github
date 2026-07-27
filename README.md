@@ -1,30 +1,23 @@
-# .github
-Public profile and community health files for Orvex Technologies.
 # Orvex Technologies Pty Ltd
 
 Enterprise Engineering • Cloud • DevOps • APIs • Kubernetes • Platform Engineering • Site Reliability Engineering • Responsible AI
 
 We help organizations modernize cloud infrastructure, accelerate software delivery, and build secure, resilient cloud-native platforms through enterprise engineering, DevOps, Kubernetes, APIs, SRE, and Responsible AI.
 
-## Expertise
+## Mission
 
-- Cloud Engineering
-- Platform Engineering
-- DevOps & DevSecOps
-- Kubernetes & Cloud Native
-- API & Microservices Modernization
-- Site Reliability Engineering (SRE)
-- Cloud Migration & Modernization
-- Infrastructure as Code (IaC)
-- GitOps
-- Observability
-- FinOps
-- Responsible AI
-- Enterprise AI Products
-- Managed Services
+To help enterprises modernize, secure, and optimize technology platforms through enterprise engineering, cloud-native platforms, DevOps, platform engineering, APIs, SRE, and responsible AI.
 
-Website:
-https://orvextechnologies.com.au
+## Products
+
+- KubeAI Ops Agent – AI-powered Kubernetes Operations Platform
+- Enterprise Engineering Solutions
+- Cloud & Platform Engineering Services
+- More enterprise products coming soon
+
+## Technologies
+
+AWS • Azure • Kubernetes • Docker • Terraform • Helm • GitHub Actions • ArgoCD • LangGraph • MCP • Python • Go • Java • .NET • Prometheus • Grafana
 
 ## Connect
 
@@ -33,12 +26,15 @@ https://orvextechnologies.com.au
 💼 LinkedIn:
 https://www.linkedin.com/company/orvex-technologies-pty-ltd
 
-## Mission
+✉️ hello@orvextechnologies.com.au
 
-To help enterprises build modern, secure, cloud-native technology platforms through practical engineering excellence and responsible AI.
+## Our Principles
 
-## Products
+- Enterprise-first
+- Security by design
+- Responsible AI
+- Open Standards
+- Engineering Excellence
 
-- KubeAI Ops Agent
-- SafeOps Platform (Coming Soon)
-- More enterprise engineering products coming soon. 
+---
+Building modern enterprise platforms through practical engineering.
