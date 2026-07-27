@@ -33,6 +33,27 @@ To help enterprises modernize, secure, and optimize technology platforms through
 - Cloud & Platform Engineering Services
 - More enterprise products coming soon.
 
-🌐 **Website:** https://orvextechnologies.com.au
+## Technologies
 
-💼 **LinkedIn:** https://linkedin.com/company/orvex-technologies-pty-ltd
+AWS • Azure • Kubernetes • Docker • Terraform • Helm • GitHub Actions • ArgoCD • LangGraph • MCP • Python • Go • Java • .NET • Prometheus • Grafana
+
+## Connect
+
+🌐 Website: https://orvextechnologies.com.au
+
+💼 LinkedIn:
+https://www.linkedin.com/company/orvex-technologies-pty-ltd
+
+✉️ hello@orvextechnologies.com.au
+
+## Our Principles
+
+- Enterprise-first
+- Security by design
+- Responsible AI
+- Open Standards
+- Engineering Excellence
+
+---
+Building modern enterprise platforms through practical engineering.
+
